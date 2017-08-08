@@ -19,7 +19,7 @@
 
 
  html, body {
- 	font-family: 'Raleway', sans-serif;
+   font-family: 'IM Fell Double Pica', serif;
  }
 
  .site-header {
@@ -53,13 +53,15 @@ li{
    margin-right: 0%;
    width: 20%;
    margin-bottom: 10px;
-   background-color: #E4DAD6;
+   background-color: #00AEE9;
+   color: white;
    p{
      float: right;
    }
  }
 
 .main-content{
+  padding: 30px;
   width: 80%;
 }
 
